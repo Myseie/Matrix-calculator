@@ -1,0 +1,14 @@
+D:\Programmering\Programmering\Matrix calculator\obj\Debug\net8.0\Matrix calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering\Matrix calculator\obj\Debug\net8.0\Matrix calculator.AssemblyInfoInputs.cache
+D:\Programmering\Programmering\Matrix calculator\obj\Debug\net8.0\Matrix calculator.AssemblyInfo.cs
+D:\Programmering\Programmering\Matrix calculator\obj\Debug\net8.0\Matrix calculator.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering\Matrix calculator\bin\Debug\net8.0\Matrix calculator.exe
+D:\Programmering\Programmering\Matrix calculator\bin\Debug\net8.0\Matrix calculator.deps.json
+D:\Programmering\Programmering\Matrix calculator\bin\Debug\net8.0\Matrix calculator.runtimeconfig.json
+D:\Programmering\Programmering\Matrix calculator\bin\Debug\net8.0\Matrix calculator.dll
+D:\Programmering\Programmering\Matrix calculator\bin\Debug\net8.0\Matrix calculator.pdb
+D:\Programmering\Programmering\Matrix calculator\obj\Debug\net8.0\Matrix calculator.dll
+D:\Programmering\Programmering\Matrix calculator\obj\Debug\net8.0\refint\Matrix calculator.dll
+D:\Programmering\Programmering\Matrix calculator\obj\Debug\net8.0\Matrix calculator.pdb
+D:\Programmering\Programmering\Matrix calculator\obj\Debug\net8.0\Matrix calculator.genruntimeconfig.cache
+D:\Programmering\Programmering\Matrix calculator\obj\Debug\net8.0\ref\Matrix calculator.dll
